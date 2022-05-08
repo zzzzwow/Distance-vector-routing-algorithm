@@ -1,0 +1,1 @@
+Distance vector routing is an efficient routing mechanism, the efficiency of DV routing algorithm implemented in different ways is different. This paper presents a simple and effective method to realize DV routing algorithm. The method is based on TCP connection and uses Bellman-Ford algorithm to calculate the path between nodes.
